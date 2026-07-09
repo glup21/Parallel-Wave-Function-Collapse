@@ -1,3 +1,0 @@
-/home/glup21/Documents/Study/ZPG/WFC/build/CMakeFiles/WFCGenerator.dir
-/home/glup21/Documents/Study/ZPG/WFC/build/CMakeFiles/edit_cache.dir
-/home/glup21/Documents/Study/ZPG/WFC/build/CMakeFiles/rebuild_cache.dir
